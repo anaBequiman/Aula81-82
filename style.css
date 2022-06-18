@@ -1,0 +1,40 @@
+h1{
+	color: rgb(0, 0, 0); 
+	font-size: 40px;
+}
+.bodyBackgorund{
+	background-image: url("fundo.jpg") ;
+	background-position: center;
+	background-size: cover;
+}
+#pintura{
+	border-width: 15px;
+	background-color: white;
+	border-style: ridge;
+}
+h1{
+	font-family: 'Are You Serious', cursive;
+	font-family: 'Arvo', serif;
+	font-family: 'Bebas Neue', cursive;
+	font-family: 'Exo', sans-serif;
+	font-family: 'Heebo', sans-serif;
+	font-family: 'Hubballi', cursive;
+	font-family: 'Lato', sans-serif;
+	font-family: 'League Spartan', sans-serif;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-family: 'Mukta', sans-serif;
+	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Oxygen', sans-serif;
+	font-family: 'Pacifico', cursive;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Saira Condensed', sans-serif;
+	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
