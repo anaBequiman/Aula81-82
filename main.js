@@ -1,5 +1,5 @@
 canvas = document.getElementById("pintura"); 
-cxt = canvas.getContext("2d"); 
+ctx = canvas.getContext("2d"); 
 //color = "black"; 
 //cxt.beginPath(); 
 //cxt.strokeStyle = color; 
